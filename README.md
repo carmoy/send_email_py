@@ -1,1 +1,1 @@
-# send_email_py
+# script to send email
